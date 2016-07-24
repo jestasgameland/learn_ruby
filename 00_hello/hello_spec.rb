@@ -99,7 +99,8 @@
 #       "Hello, #{who}!"
 #     end
 #
-require "hello"
+
+require_relative "./spec/spec_helper"
 
 describe "the hello function" do
   it "says hello" do
