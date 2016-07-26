@@ -17,7 +17,7 @@
 #
 #
 
-require "pig_latin"
+require_relative "./spec/spec_helper"
 
 describe "#translate" do
 
