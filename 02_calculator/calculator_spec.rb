@@ -33,7 +33,7 @@
 #
 #
 
-require_relative "./spec/spec_helper"
+require "spec_helper"
 
 describe "add" do
   it "adds 0 and 0" do

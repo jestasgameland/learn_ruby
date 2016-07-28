@@ -7,7 +7,7 @@
 #
 # # Timer
 
-require 'timer'
+require_relative './spec/spec_helper'
 
 describe "Timer" do
   before(:each) do
